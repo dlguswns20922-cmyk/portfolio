@@ -43,7 +43,8 @@ body, html{
 /* Link style
 ---------------------------------------------------------*/
 a {
-    color: #e93838;
+    color:#be3232;
+;
 }
 a,
 a > * {
@@ -1524,4 +1525,12 @@ Icon for all respective meta
     font-size: 12px;
     line-height: 22px;
     color: #888888c5;
+}
+
+.red {
+    color: #be3232;
+}
+
+.round { 
+    border-radius: 30%;
 }
